@@ -1,0 +1,9 @@
+.Profile-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.Profile-form {
+  width: 50%;
+}

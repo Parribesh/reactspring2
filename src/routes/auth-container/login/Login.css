@@ -1,0 +1,27 @@
+
+
+.login-logo-container {
+  display: flex;
+  align-items: end;
+}
+
+.login-circle-1 {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50px;
+}
+
+.login-circle-2 {
+  width: 15px;
+  height: 15px;
+  background-color: green;
+  border-radius: 50px;
+}
+
+.login-circle-3 {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  border-radius: 50px;
+}

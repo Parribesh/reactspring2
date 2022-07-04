@@ -1,0 +1,10 @@
+.Main-main {
+  width: 100%;
+}
+.Main-header {
+  width: 100%;
+  top: 0;
+  background-color: rgb(145, 158, 234);
+  display: flex;
+  justify-content: end;
+}
